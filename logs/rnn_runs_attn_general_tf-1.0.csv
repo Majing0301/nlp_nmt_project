@@ -1,0 +1,11 @@
+epoch,train_file,attn,teacher_forcing,emb_size,hidden_size,dropout,batch_size,lr,max_len,train_loss,valid_loss,time_sec,device
+1,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,6.234306,6.098262,91.03,cuda
+2,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,5.167457,5.452408,136.17,cuda
+3,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,4.564524,5.172778,139.25,cuda
+4,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,4.135368,4.973018,135.91,cuda
+5,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,3.807952,4.875681,135.68,cuda
+6,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,3.554523,4.796887,135.01,cuda
+7,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,3.355433,4.737679,137.75,cuda
+8,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,3.193195,4.725398,136.66,cuda
+9,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,3.061091,4.695741,136.61,cuda
+10,train_100k.jsonl,general,1.0,256,256,0.1,128,0.001,60,2.946161,4.696419,134.99,cuda

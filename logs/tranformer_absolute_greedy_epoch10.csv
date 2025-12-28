@@ -1,0 +1,11 @@
+epoch,train_file,pos_type,norm_type,d_model,n_heads,n_layers,d_ff,dropout,batch_size,lr,weight_decay,max_len,train_loss,valid_loss,time_sec,device
+1,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,6.446311,6.182115,21.87,cuda
+2,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,5.594435,5.879042,20.0,cuda
+3,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,5.249356,5.645878,19.94,cuda
+4,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.994411,5.500152,19.83,cuda
+5,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.789445,5.387111,19.97,cuda
+6,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.617478,5.306315,19.96,cuda
+7,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.469386,5.242323,19.92,cuda
+8,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.339327,5.165382,19.85,cuda
+9,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.223543,5.125734,20.06,cuda
+10,train_100k.jsonl,absolute,layernorm,256,4,4,1024,0.1,256,0.0003,0.01,60,4.117205,5.07505,19.96,cuda
